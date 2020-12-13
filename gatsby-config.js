@@ -60,20 +60,6 @@ module.exports = {
           "gatsby-remark-relative-images",
           "gatsby-remark-normalize-paths",
           {
-            resolve: "gatsby-remark-images",
-            options: {
-              maxWidth: 1000,
-              linkImagesToOriginal: false,
-            },
-          },
-        ],
-      },
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
             // Using gatsby-remark-embed-video before gatsby-remark-images & gatsby-remark-responsive-iframe plugins.             
             resolve: `gatsby-remark-embed-video`,             
             options: {
@@ -85,12 +71,19 @@ module.exports = {
             },
           },
           {
+            resolve: "gatsby-remark-images",
+            options: {
+              maxWidth: 1000,
+              linkImagesToOriginal: false,
+            },
+          },
+          {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
-          ],
+        ],
       },
     },
   ],
