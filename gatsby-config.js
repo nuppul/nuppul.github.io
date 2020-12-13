@@ -10,7 +10,8 @@ module.exports = {
     about: config.about,
     contact: config.contact,
     primaryColor: config.primary_color,
-    infoData: infoData
+    infoData: infoData,
+    siteUrl: `https://nuppulehto.com`
   },
   plugins: [
     "gatsby-plugin-sass",
