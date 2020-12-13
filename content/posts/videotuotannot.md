@@ -7,25 +7,25 @@ hero_image: "/content/images/kansikuva4.jpg"
 ---
 ## Bajo Oy
 
-Tuotantoassistentti 
-Le Fabelos feat Cledos - Baby Girl 
+Tuotantoassistentti  
+`youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`
 
-Tuotantoassistentti 
+Tuotantoassistentti  
 Toivonen - Ei satu enää
 
-Tuotantoassistentti 
+Tuotantoassistentti  
 View - Bury Me
 
 ## Asiakaspalvelu
 
 Myymälävastaava  
-Lähdesmäki Oy
+Lähdesmäki Oy  
 Rekrytointi, työvuorosuunnittelu, myymälän somistaminen ja ylläpito, myynti ja sosiaalisen median ylläpito
 
-Asiakaspalvelija
-Verkkokauppa.com
+Asiakaspalvelija  
+Verkkokauppa.com  
 Asiakaspalvelu sähköpostitse, chatissa ja puhelimitse, sosiaalisen median ylläpito
 
-Myyjä 
-Verkkokauppa.com
+Myyjä   
+Verkkokauppa.com  
 Myynti, asiakaspalvelu, myymälän somistus
