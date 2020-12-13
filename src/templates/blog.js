@@ -41,8 +41,8 @@ export default function Blog(props) {
           dangerouslySetInnerHTML={{ __html: data.html }}
         ></div>
         <div className={blogTemplateStyles.blog__footer}>
-          <h2>
-            Written By: {data.frontmatter.author}
+          <h2 hidden>
+            Written By: Nuppu Lehto
           </h2>
           <Link to={`blog/${nextSlug}`} className={blogTemplateStyles.footer__next}>
             <svg xmlns="http://www.w3.org/2000/svg"  version="1.1" x="0px" y="0px" viewBox="0 0 26 26" enableBackground="new 0 0 26 26" >
