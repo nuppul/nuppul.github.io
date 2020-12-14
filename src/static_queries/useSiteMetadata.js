@@ -11,8 +11,7 @@ export default function useSiteMetadata() {
           infoData {
             contact {
               email
-              github_handle
-              twitter_handle
+              linkedin_handle
             }
             cta
             description

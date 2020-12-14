@@ -46,6 +46,10 @@
     padding: 1.5rem 1rem;
     line-height: 1.2;
   }
+  h2 {
+    padding-left: 0 !important;
+    padding-bottom: 0 !important;
+  }
   p {
     color: #464646;
     font-weight: normal;
@@ -62,7 +66,7 @@
 
 .blog__footer {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
   padding: 1.5rem 1.25rem;
   width: 100%;
@@ -75,7 +79,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: auto;
     svg {
       width: 20px;
     }

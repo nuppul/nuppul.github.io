@@ -5,16 +5,15 @@ author: Nuppu Lehto
 hero_image: "/content/images/kansikuva4.jpg"
 
 ---
-## Bajo Oy
+## Videotuotantoassistentti, Bajo Oy
 
-Tuotantoassistentti  
-`youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`
-
-Tuotantoassistentti  
+Tuotantoassistentti 9/2020  
 Toivonen - Ei satu enää
+`youtube:https://www.youtube.com/watch?v=3Ps0Dyp5P-U`
 
-Tuotantoassistentti  
+Tuotantoassistentti 10/2020  
 View - Bury Me
+`youtube:https://www.youtube.com/watch?v=sr_9TgdtDPo`
 
 ## Asiakaspalvelu
 

@@ -5,22 +5,25 @@ author: Nuppu Lehto
 hero_image: "/content/images/kansikuva3.jpg"
 
 ---
-Pikkuprovinssi ja ValotOn 2020
-Vapaaehtoiskoordinaattori, tuotantoassistentti
+Vapaaehtoiskoordinaattori, tuotantoassistentti  
+Pikkuprovinssi ja ValotON 2020  
 
+Stagehand  
 Emma Gaala 2020
-Stagehand
 
-Bryan Adams: Shine A Light / Espoo Metro Areena
-Stagehand
+Stagehand  
+Bryan Adams: Shine A Light / Espoo Metro Areena  
 
-Flow 2019 
-Backstage
+Guest host  
+Lift 2019 - New Dimensions of Media, Arts & Culture  
 
-Flow Festival 2018
-Asiakaspalvelu ja alueen rakennus
+Backstage  
+Flow 2019 / Vapaaehtoistyö  
 
-Provinssi 2015, 2016, 2017
-Asiakasneuvonta, anniskelu, siivous
+Asiakaspalvelu ja alueen rakennus  
+Flow Festival 2018 / Vapaaehtoistyö  
 
-![](/content/images/anomaly-oRskqiH7FNc-unsplash.jpg)
+Asiakasneuvonta, anniskelu, siivous  
+Provinssi 2015, 2016, 2017 / Vapaaehtoistyö  
+
+![](/content/images/fill4.jpg)

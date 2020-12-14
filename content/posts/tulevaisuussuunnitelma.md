@@ -1,8 +1,8 @@
 ---
 date: 2019-07-22T22:44:38Z
-title: Tulevaisuussuunnitelma
+title: Tulevaisuus
 author: Nuppu Lehto
-hero_image: "/content/images/nuppu6.jpg"
+hero_image: "/content/images/nuppu5.jpg"
 
 ---
 Koko maailma ja sen mukana myös tapahtuma-ala on vuoden 2020 lopulla erityisen epämääräisessä ja haastavassa tilassa. Ilmastokriisi ja pandemia laittavat niin maapallon kuin ihmiskunnan koville. On monella tapaa suurten muutoksen aika ja tulevaisuutta on vaikea hahmottaa. Monet suuret muutokset tulevat esille vasta koko maailmaa koskettavien tapahtumien kehittyessä. Moni muutos on kuitenkin jo selkeästi havaittavissa. Pandemia on muuttanut tapojamme työskennellä, viettää vapaa-aikaa, harrastaa ja elää - teknologia sulautuu kaikkeen mitä teemme. Ja kaikki tämä on osa alaamme. Miten vastaamme pandemiaan ja siihen liittyviin rajoituksiin, teknologian kehityksen tuomiin muutoksiin, ilmastonmuutokseen, talouden muutoksiin ja jäteongelmaan?
@@ -15,8 +15,8 @@ Vuosia riivannut globaali pandemia osoitti etänä työskentelyn olevan mahdolli
 
 Hiljennän radion tiimini videopalaverin alkaessa kahdeksalta, yhdeksältä Suomen aikaa. Tapaamme Zoomin kaltaisella alustalla joka maanantai ja perjantai pysyäksemme töistä kärryillä ja aikataulussa. Käymme rutiininomaisesti läpi viikon etenemisen ja toivotamme toisillemme iloisesti erinomaiset viikonloput. Eräs kollegoistani kehottaa minua nauttimaan tulevasta illan keikasta. Ja minähän aion nauttia. Lähes keikattomien koronavuosien jälkeen mikä tahansa konsertti on tuntunut euforiselta.
 
-![](/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg)
-
 Työpäivä on perjantaisin normaalia lyhyempi, noin neljä tuntia, ja kuluu nopeasti aluesuunnittelun parissa. Työskentelen yksin kotoa käsin, mutta jaan suunnittelualustan työparini kanssa. Alueen ja logistiikan suunnittelu on helpottunut merkittävästi uusien virtuaalisten työtilojen ja luovien työkalujen kehittymisen myötä.
 
-Nautin siitä, ettei minua ole sidottu yhteen paikkaan työni mukaan. Työtehtävätkin tuntuvat aina erilaisilta, kun töitä pystyy tehdä erilaisista paikoista, hieman eri näkökulmasta.
+Nautin siitä, ettei minua ole sidottu yhteen paikkaan työni mukaan. Työtehtävätkin tuntuvat aina erilaisilta, kun töitä pystyy tehdä erilaisista paikoista, eri näkökulmista.
+
+![](/content/images/fill1.jpg)

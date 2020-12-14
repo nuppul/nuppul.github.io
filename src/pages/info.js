@@ -20,14 +20,9 @@ export default function Info() {
           </li>
           <li>
             <p>
-              <a href={`https://twitter.com/${infoData.contact.twitter_handle}`}>
-                Twitter: @{infoData.contact.twitter_handle}
+              <a href={`https://linkedin.com/in/${infoData.contact.linkedin_handle}`} target="_blank" rel="noreferrer">
+                Linkedin: @{infoData.contact.linkedin_handle}
               </a>
-            </p>
-          </li>
-          <li>
-            <p>
-              <a href={`https://github.com/${infoData.contact.github_handle}`}>Github: {infoData.contact.github_handle}</a>
             </p>
           </li>
         </ul>

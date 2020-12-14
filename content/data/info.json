@@ -1,10 +1,9 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>Cultural management professional focused on event productions. Experienced in coordination of volunteers, video productions, customer experience developement and organizing of various events.</p>",
+  "cta": "<p>Contact me:</p>",
   "contact": {
-    "email": "info@forestry.io",
-    "twitter_handle": "forestryio",
-    "github_handle": "forestryio"
+    "email": "nuppulehto@gmail.com",
+    "linkedin_handle": "nuppulehto"
   },
   "background_color": "#B1BCBC"
 }
