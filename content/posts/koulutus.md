@@ -5,45 +5,62 @@ author: Nuppu Lehto
 hero_image: "/content/images/kansikuva.jpg"
 
 ---
-## 2019 syksy  
+Kulttuurituotannon tutkinto-ohjelma, Metropolia AMK
+
+## Kulttuurituotannon perusteet
+Orientoivat opinnot ja viestinnän perusteet  
+Kulttuurin tuntemus  
 Projektinhallinta tapahtumatuotannossa  
 Talous tapahtumatuotannossa  
-Kulttuurin tuntemus  
 Taiteiden tuntemus  
-
-## 2020 kevät  
 Kulttuurityö kolmannella sektorilla  
-Mediaviestintä ja ammatillinen kirjallinen ilmaisu   
+Mediaviestintä ja ammatillinen kirjallinen ilmaisu  
 Markkinointiviestintä  
 Tapahtuman tekninen toteutus ja turvallisuustaidot  
 Sopimusoikeus  
 Visuaalinen viestintä  
-Kulttuurialan projektityö  
 
-## 2020 syksy  
-Innovaatioprojekti  
-Itsenäinen projekti 1, Pikkuprovinssi   
+## Kulttuurituottaja yhteiskunnallisena toimijana
 Suomalainen kulttuuripolitiikka ja organisaatiot  
+Puheviestintä  
 Yrittäjyys kulttuurisektorilla  
 Julkiset ja yksityiset apurahat  
-Ammatti-identiteetti ja portfoliotyö 1  
 
-## 2021 kevät  
-Puheviestintä  
-Yleisötyö  
+## Kultturialan palveluliiketoiminta
 Liiketoiminta kulttuurisektorilla  
 Taloushallinto  
 Tapahtumamarkkinointi ja yritysyhteistyö  
+Yleisötyö  
+
+## Kulttuurituottajan ammatti-identiteetti
 Ammatillinen englanti ja toinen kotimainen kieli  
+Kansainvälinen toiminta  
+Johtaminen ja vuorovaikutustaidot  
+Ammatti-identiteetti ja portfoliotyö 1  
 
-## 2021 syksy  
-Valinnaisia: Esimiestyö ja johtaminen  
+## Kulttuurituottajan projektityöskentely 
+Kulttuurialan projektityö  
+Innovaatioprojekti  
+Itsenäinen projektityöskentely 1 – Pikkuprovinssi 2020  
+Itsenäinen projektityöskentely 2, 3 – Artistibrändäys ja managerointi  
 
-## 2022 kevät  
-Valinnaisia: Hyvinvointi ja luovuus  
+## Kulttuurituottajan ammattiprofiilin syventäminen
+Kuvasuunnittelu, valokuva ja animointi osana viestintää  
+Sukupuolentutkimuksen peruskurssi  
+Feminismin klassikot  
+Antirasismin perusteet  
+Instagram as a Marketing Tool  
+TikTok as a Marketing Tool  
+Vaihto-oppilastutorointi  
 
-## 2022 syksy  
+## Työharjoittelut
+Työharjoittelut 1, 2 – Skorpioni  
+
+## Kulttuurituottajan ammattiosaamisen todentaminen
 Ammatti-identiteetti ja portfoliotyö 2  
+Tutkimuksellinen kehittämistyö  
+Opinnäytetyö ja kypsyysnäyte  
+ 
 
 
 ![](/content/images/fill5.jpg)

@@ -28,7 +28,7 @@ export default function Header(props) {
             >
               {props.page === 'info'
                 ? "close"
-                : "info"}
+                : "contact"}
             </Link>
           </h1>
         </div>
