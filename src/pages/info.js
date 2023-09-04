@@ -16,16 +16,16 @@ export default function Info() {
         <ul>
           <li>
             <p>
-              <a href={`mailto:${infoData.contact.email}`}>Email: {infoData.contact.email}</a>
+              <a href={`mailto:${infoData.contact.email}`}>You can email me at {infoData.contact.email}</a>
             </p>
           </li>
-          <li>
+          {/* <li>
             <p>
               <a href={`https://linkedin.com/in/${infoData.contact.linkedin_handle}`} target="_blank" rel="noreferrer">
                 Linkedin: @{infoData.contact.linkedin_handle}
               </a>
             </p>
-          </li>
+          </li> */}
         </ul>
       </section>
     </Layout>

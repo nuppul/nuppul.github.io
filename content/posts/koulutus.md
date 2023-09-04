@@ -1,66 +1,38 @@
 ---
 date: 2019-07-31T22:43:31Z
-title: Koulutus
+title: Education
 author: Nuppu Lehto
-hero_image: "/content/images/kansikuva.jpg"
+hero_image: "/content/images/color2.png"
 
 ---
-Kulttuurituotannon tutkinto-ohjelma, Metropolia AMK
+I will graduate as a Cultural Manager from Metropolia University of Applied Sciences in the fall of 2023 with the completion of my thesis. **My thesis** examines the state and development of artists' well-being under the title **"SUPPORTING AND INVOLVING ARTISTS IN BOOKING AGENCIES – DEVELOPING ARTIST-ORIENTED OPERATING METHODS FOR A BOOKING AGENCY SUOMEN KEIKKAMYYNTI"**. 
 
-## Kulttuurituotannon perusteet
-Orientoivat opinnot ja viestinnän perusteet  
-Kulttuurin tuntemus  
-Projektinhallinta tapahtumatuotannossa  
-Talous tapahtumatuotannossa  
-Taiteiden tuntemus  
-Kulttuurityö kolmannella sektorilla  
-Mediaviestintä ja ammatillinen kirjallinen ilmaisu  
-Markkinointiviestintä  
-Tapahtuman tekninen toteutus ja turvallisuustaidot  
-Sopimusoikeus  
-Visuaalinen viestintä  
+The idea for my thesis started to form when I was touring with *ibe*. While it was of course fun and exciting, I could feel the struggles of others and myself – struggles that were caused by irregular schedules, endless travelling, lack of sleep and rest, stress and missing home. In my thesis I've interviewed artists and people working around them in order to find out the most tiring factors and how we could make these factors less overwhelming.
 
-## Kulttuurituottaja yhteiskunnallisena toimijana
-Suomalainen kulttuuripolitiikka ja organisaatiot  
-Puheviestintä  
-Yrittäjyys kulttuurisektorilla  
-Julkiset ja yksityiset apurahat  
+*Link to the thesis will be found in my portfolio when it's published.*
 
-## Kultturialan palveluliiketoiminta
-Liiketoiminta kulttuurisektorilla  
-Taloushallinto  
-Tapahtumamarkkinointi ja yritysyhteistyö  
-Yleisötyö  
-
-## Kulttuurituottajan ammatti-identiteetti
-Ammatillinen englanti ja toinen kotimainen kieli  
-Kansainvälinen toiminta  
-Johtaminen ja vuorovaikutustaidot  
-Ammatti-identiteetti ja portfoliotyö 1  
-
-## Kulttuurituottajan projektityöskentely 
-Kulttuurialan projektityö  
-Innovaatioprojekti  
-Itsenäinen projektityöskentely 1 – Pikkuprovinssi 2020  
-Itsenäinen projektityöskentely 2, 3 – Artistibrändäys ja managerointi  
-
-## Kulttuurituottajan ammattiprofiilin syventäminen
-Kuvasuunnittelu, valokuva ja animointi osana viestintää  
-Sukupuolentutkimuksen peruskurssi  
-Feminismin klassikot  
-Antirasismin perusteet  
-Instagram as a Marketing Tool  
-TikTok as a Marketing Tool  
-Vaihto-oppilastutorointi  
-
-## Työharjoittelut
-Työharjoittelut 1, 2 – Skorpioni  
-
-## Kulttuurituottajan ammattiosaamisen todentaminen
-Ammatti-identiteetti ja portfoliotyö 2  
-Tutkimuksellinen kehittämistyö  
-Opinnäytetyö ja kypsyysnäyte  
- 
-
-
-![](/content/images/fill5.jpg)
+## **Completed courses that <br> support Professional Competence:**  
+– Anti-racist Workplace  
+– Audience Development  
+– Business in the Cultural Sector  
+– Classics of Feminism  
+– Contracts and Law  
+– Cultural Work in the Third Sector  
+– Economy in Event Productions  
+– Entrepreneurship in the Cultural Sector  
+– Event Marketing and Business Cooperation  
+– Finance Management  
+– Finnish Cultural Policies and Organizations  
+– Graphic Design  
+– Healthy and Responsible Organization  
+– Image Design, Photography and Animation as part of Communication  
+– International Operation  
+– Knowledge of Arts  
+– Leadership and Communication Skills  
+– Management and Intermediary Skills  
+– Marketing Communications  
+– Project Management in Event Productions  
+– Public and Private Grants  
+– Public Relations and Professional Written Expression  
+– Speech Communication  
+– Technical Execution of the Event and Safety Skills  

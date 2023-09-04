@@ -1,37 +1,55 @@
 ---
 date: 2019-08-13T22:40:32Z
-title: Tapahtumat ja muut tuotannot
+title: Events and Other Productions
 author: Nuppu Lehto
-hero_image: "/content/images/kansikuva3.jpg"
+hero_image: "/content/images/color3.png"
 
 ---
-## Tapahtumat 
+## **EVENTS** 
 
-Artist host  
-Up North 2021 & 2022
+**Artist Production**  
+Up North 2023  
+www.ruka.fi/events/upnorth
 
-Stagehand & Production Assistant  
-Emma Gaala 2020 & 2021
+**Production Assistant, ibe @ Ruisrock 2023**  
+Freelancer | Ruisrock 2023
+www.suomenkeikkamyynti.fi/ibe
 
-Vapaaehtoiskoordinaattori, tuotantoassistentti  
-Seinäjoen kaupungin kulttuuripalvelut  
-Pikkuprovinssi ja ValotON 2020  
+**Artist host**  
+Up North 2021 & 2022  
+www.ruka.fi/events/upnorth
 
-Guest host  
+**Stagehand**  
+Best Crew Ever, 2020  
+www.bestcrew.fi  
+
+**Stagehand & Production Assistant**  
+Volunteering  
+Emma Gaala 2020 & 2021  
+www.emmagaala.fi
+
+**Coordinator of Volunteers, Production Assistant**  
+Seinäjoen kaupungin kulttuuripalvelut    
+Pikkuprovinssi ja ValotON 2020   
+www.pikkuprovinssi.fi
+
+**Guest host**  
 Lift 2019 - New Dimensions of Media, Arts & Culture  
+www.lifthelsinki.fi
 
-Backstage host, asiakaspalvelu ja alueen rakennus
-Vapaaehtoistyö  
-Flow Festival 2018, 2019
+**Backstage host, Customer Service**  
+Volunteering  
+Flow Festival 2018, 2019  
+www.flowfestival.com
 
-Asiakasneuvonta, anniskelu, siivous  
-Vapaaehtoistyö
-Provinssi 2015, 2016, 2017 
+**Customer Service, Catering and Cleaning**  
+Volunteering  
+Provinssi 2015, 2016, 2017  
+www.provinssi.fi
 
-
-## Muut tuotannot
-VAIN X MCDONALD’S  
+## **OTHER**
+**VAIN X MCDONALD’S**  
 Campaign and Lookbook Photoshoot Production  
-https://jimivain.com/pages/vain-x-mcdonalds
-
-![](/content/images/fill4.jpg)
+www.jimivain.com/pages/vain-x-mcdonalds  
+www.hs.fi/kulttuuri/art-2000009233511.html  
+www.cnn.com/style/article/mcdonalds-vain-finland-fashion-upcycling-trnd

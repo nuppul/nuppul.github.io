@@ -1,27 +1,32 @@
 ---
-title: Minä
-date: '2019-08-16T22:37:31.000Z'
-hero_image: ../images/nuppu3.jpeg
+title: About
+date: '2020-08-16T22:37:31.000Z'
+hero_image: ../images/color1.png
 author: Nuppu Lehto
 ---
 
-Olen Nuppu, kulttuuri- ja tapahtuma-alalla työskentelystä suuresti nauttiva alan opiskelija. Tein 15-kesäisenä ensimmäisen vapaaehtoiskeikkani Provinssin leirintäalueen siivouksessa, noukkien litteitä tölkkejä sateessa mutavellin seasta. Vaikka hommasta oli hohto kaukana, jokin siinä kiehtoi ja tein töitä Provinssissa seuraavat neljä kesää erilaisissa tehtävissä. Kulttuuri- tai tapahtumatuotannon en tuolloin ajatellut käyvän ammatiksi lainkaan, mutta hyvä musiikki ja ihmiset yhdessä kiinnosti.
+Hi! My Name is Nuppu Lehto. I'm a Helsinki-based, human-oriented production manager and assistant, currently finishing my Cultural Management's thesis about touring and mental health.  
 
-### Toteuttaessani mitä tahansa keikasta musiikkivideoon, haluan osallistujien tuntevan olonsa turvalliseksi ja merkitykselliseksi. 
+I've worked with artists as a producer to help them create their visuals, as a management assistant to help them promote their career and build connections, as an artist host to make them feel safe and taken care of and as a tour manager to make touring an unforgettable experience for the artist, the crew and the audience.
 
-Videoiden ja tapahtumien tuotannoissa nautin ihmisten kohtaamisista, tiiviistä tunnelmasta, turvallisesta ja odottavasta ilmapiiristä, kihelmöinnistä ja ilosta. Nautin pitkistä työpäivistä ja -viikoista, jotka ottavat paljon mutta antavat tuhatkertaisesti enemmän. Paineen alla koen tekemiseni ja luovan ongelmanratkaisukykyni olevan parhaimmillaan. Hektinen työympäristö on minulle koti.
+*Starting 01.10.2023 I'm available for freelance or full-time positions.*  
 
-## Työkokemus
+## **EXPERIENCE**
 
-Freelance-tuottaja  
-Alkaen 2020
+**Management Assistant, pehmoaino**  
+Freelancer | Since 08/2023
 
-Tuuraava kiertuemanageri ja avustava tuottaja, ibe  
-Suomen Keikkamyynti | 2022
+**Tour Management and Production, pehmoaino**  
+Freelancer | Since 05/2023  
+www.fullsteam.fi/pehmoaino
 
-Tuottaja, Label Management Assistant  
-Skorpioni | 2021-2022
+**2nd Tour Manager, ibe**  
+Freelancer | 2022  
+www.suomenkeikkamyynti.fi/ibe
 
-![](/content/images/nuppu2.jpeg)
+**Video and Event Producer, Label Management Assistant**  
+Skorpioni | 01/2021 - 09/2022  
+www.skorpioni.club
 
-Kaikki portfolion kuvat ovat omiani.
+**Freelance Event and Video Producer**  
+Since 01/2020
