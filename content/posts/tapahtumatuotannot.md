@@ -5,6 +5,8 @@ author: Nuppu Lehto
 hero_image: "/content/images/color3.png"
 
 ---
+My journey with events starts from a deep-rooted desire to create memorable experiences that bring people together. In a hectic world I've always believed in the power of events to inspire, entertain and foster genuine connections.
+
 ## **EVENTS** 
 
 **Artist Production**  

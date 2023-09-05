@@ -5,9 +5,9 @@ author: Nuppu Lehto
 hero_image: "/content/images/color2.png"
 
 ---
-I will graduate as a Cultural Manager from Metropolia University of Applied Sciences in the fall of 2023 with the completion of my thesis. **My thesis** examines the state and development of artists' well-being under the title **"SUPPORTING AND INVOLVING ARTISTS IN BOOKING AGENCIES – DEVELOPING ARTIST-ORIENTED OPERATING METHODS FOR A BOOKING AGENCY SUOMEN KEIKKAMYYNTI"**. 
+I'll graduate from Metropolia University of Applied Sciences' Cultural Management degree programme in the fall of 2023, with the completion of my thesis. **My thesis** examines the state and development of artists' well-being in the music and live industries under the title **"SUPPORTING AND INVOLVING ARTISTS IN BOOKING AGENCIES – DEVELOPING ARTIST-ORIENTED OPERATING METHODS FOR A BOOKING AGENCY SUOMEN KEIKKAMYYNTI"**. 
 
-The idea for my thesis started to form when I was touring with *ibe*. While it was of course fun and exciting, I could feel the struggles of others and myself – struggles that were caused by irregular schedules, endless travelling, lack of sleep and rest, stress and missing home. In my thesis I've interviewed artists and people working around them in order to find out the most tiring factors and how we could make these factors less overwhelming.
+The idea for my thesis started to form when I was touring with *ibe*. While touring was of course fun and exciting, I could feel the struggles of others and myself – struggles that were caused by irregular schedules, endless travelling, lack of sleep and rest, stress and missing home. In my thesis I've interviewed artists and people working around them in order to find out the most tiring factors and how we could make them less overwhelming.
 
 *Link to the thesis will be found in my portfolio when it's published.*
 
