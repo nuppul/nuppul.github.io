@@ -30,4 +30,4 @@ Skorpioni | 01/2021 - 09/2022
 www.skorpioni.club
 
 **Freelance Event and Video Producer**  
-Since 01/2020
+Since 01/2020 
